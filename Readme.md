@@ -1,3 +1,3 @@
 # Git Course
 
-Este é um repositorio para testar o git
+Este é um repositorio para testar o git. Aula 10.
